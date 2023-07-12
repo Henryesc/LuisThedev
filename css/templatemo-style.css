@@ -513,6 +513,11 @@ a:hover {
 	letter-spacing: 1px;
 }
 
+.blog-img{
+	height: 350px;
+	width: 757px;
+}
+
 #blog .section-heading .line-dec {
 	width: 270px;
 	height: 1px;
