@@ -463,9 +463,10 @@ a:hover {
 .list{
 	height: 74px;
 	width: 74px;
-	/* display: flex;
+	display: flex; 
 	align-items: center;
-	flex-direction: column; */
+	text-align: center;
+	flex-direction: column; 
 }
 
 /* .skill {
@@ -477,7 +478,10 @@ a:hover {
 
 .skills-description{
 	color: white;
-	padding: 0% 7% 7% 0%;
+	padding-bottom: 30px;
+	padding-left: 15px;
+	padding-right: 15px;
+	/* padding: 0% 7% 7% 0%; */
 	font-size: medium;
 }
 
@@ -518,7 +522,6 @@ a:hover {
 
 #blog .section-heading p {
 	color: #fff;
-	padding-right: 70px;
 }
 
 .wrapper {
